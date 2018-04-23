@@ -1,0 +1,3 @@
+@Import(AspectJAutoProxyRegistrar.class)
+ImportBeanDefinitionRegistrar 是一个接口可以给BeanDefinitionRegistry也就是bena中自定义注册组件
+	
